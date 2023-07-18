@@ -30,7 +30,6 @@ callouts:
     color: red
 
 plugins:
-  - jekyll-seo-tag
   - jekyll-github-metadata
 
 kramdown:
