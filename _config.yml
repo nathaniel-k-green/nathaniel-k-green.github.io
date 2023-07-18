@@ -7,6 +7,10 @@ url: https://just-the-docs.github.io
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.6"
 
 callouts_level: quiet # or loud
 callouts:
@@ -24,3 +28,22 @@ callouts:
   warning:
     title: Warning
     color: red
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+  # ignore:
+  #   envs: all
