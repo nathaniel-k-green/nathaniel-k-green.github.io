@@ -11,5 +11,3 @@ plugins:
  - "jekyll-github-metadata"
 
 
-#plugins:
-#  - jekyll-default-layout
