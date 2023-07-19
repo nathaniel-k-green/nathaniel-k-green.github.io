@@ -9,8 +9,8 @@ If [Jekyll] is installed on your computer, you can also build and preview the cr
 
 
 
-{: .important }
-> blue
+{: .warning }
+> This website documents the features of the current 
 
 More specifically, the created site:
 
