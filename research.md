@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Research
 description: "A log of research I have done as of 7/19/23"
 image: /images/U8.pgm
