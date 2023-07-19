@@ -7,4 +7,4 @@ gem "just-the-docs", "0.5.3" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
 
 #gem "jekyll-github-metadata", ">= 2.15"
-gem "jekyll-default-layout"
+#gem "jekyll-default-layout"
