@@ -10,6 +10,10 @@ aux_links:
 plugins:
  - "jekyll-github-metadata"
 
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.6"
 
 callouts_level: quiet # or loud
 callouts:
