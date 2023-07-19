@@ -8,7 +8,8 @@ aux_links:
   Template Repository: https://github.com/nathaniel-k-green.github.io
 
 plugins:
- - "jekyll-github-metadata"
+  - jekyll-seo-tag
+  - jekyll-github-metadata
 
 mermaid:
   # Version of mermaid library
