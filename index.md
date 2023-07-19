@@ -7,7 +7,7 @@ This is a *bare-minimum* template to create a Jekyll site that uses the [Just th
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
 
-![uh oh, image isn't showing](IMG_0388.JPG)
+![](IMG_0388.JPG)
 
 {: .warning }
 > This website documents the features of the current 
