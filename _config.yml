@@ -9,7 +9,7 @@ aux_links:
 
 plugins:
  - "jekyll-github-metadata"
- - jekyll-default-layout
+
 
 #plugins:
 #  - jekyll-default-layout
