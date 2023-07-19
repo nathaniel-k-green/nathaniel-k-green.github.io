@@ -7,8 +7,8 @@ url: https://nathaniel-k-green.github.io
 aux_links:
   Template Repository: https://github.com/nathaniel-k-green.github.io
 
-#plugins:
-#  - "jekyll-github-metadata"
+plugins:
+ - "jekyll-github-metadata"
 
 #plugins:
 #  - jekyll-default-layout
