@@ -10,5 +10,5 @@ aux_links:
 #plugins:
 #  - "jekyll-github-metadata"
 
-plugins:
-  - jekyll-default-layout
+#plugins:
+#  - jekyll-default-layout
