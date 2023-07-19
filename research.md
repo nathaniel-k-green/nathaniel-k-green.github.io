@@ -12,8 +12,8 @@ description: "A log of research I have done as of 7/19/23"
 {: .important-title }
 > CDTA
 >
-> I worked with [Professor Edward D. Kim] on the CDTA conjecture. The CDTA conjecture is about the positivity of coefficients from a polynomial obtained from matrix operations.
-> $$x = 5$$
+> I worked with [Professor Edward D. Kim] on the CDTA conjecture. The CDTA states given $$n\times n$$ symmetric matrices $$A$$ and $$B$$, for all even integers $$m\geq r > 0$$, the coefficient of $$t^r$$ in $$p(t)=\mathsf{trace}((A+tB)^m)$$ is non-negative.
+
 
 
 ----
