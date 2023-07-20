@@ -21,6 +21,6 @@ description: "A log of research I have done as of 7/19/23"
 
 ----
 
-[[arxiv]]: https://arxiv.org/abs/2307.06311
+[arxiv]: https://arxiv.org/abs/2307.06311
 [Edward D. Kim]: https://www.uwlax.edu/profile/ekim/
 [SageMath]: https://www.sagemath.org/
