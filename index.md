@@ -5,8 +5,6 @@ nav_order: 1
 ---
 # Nathaniel K. Green
 
-![image of matrix where the entries are converted to grayscale values](images/IMG_0388.jpg){:width="20%" style="float:"}
-
 My name is Nathaniel K. Green and I am a Mathematics and Computer Science double major from the [University of Wisconsin - La Crosse]. Here is my [resume].
 
 ----
