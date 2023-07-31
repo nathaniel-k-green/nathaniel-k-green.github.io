@@ -11,7 +11,7 @@ I am entering my junior year at the [University of Wisconsin - La Crosse]. I am 
 
 
 ![Picture of me](images/IMG_0068_Original.jpg){:width="30%" style="float: left; margin-right: 1em;"}
-![Picture of me](images/IMG_0065_Original.jpg){:width="30%" style="float: left; margin-right: 1em;"}
+![Picture of me](images/IMG_0065_Original.jpg){:width="30%" style="float: center; margin-right: 1em;"}
 
 
 
