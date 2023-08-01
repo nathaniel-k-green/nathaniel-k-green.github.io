@@ -14,7 +14,7 @@ I also enjoy solving rubik's cubes. I am able to solve all sorts of rubik's cube
 
 More recently, I have gotten into chess. Although I am no grand master, I enjoy playing games online and with my Dad. I find it fascinating watching videos of grand masters explaining their thought process behind games and seeing their level of expertise. 
 
-{:.style="float: center; margin-left:auto; margin-right:auto;"} 
+{:.style="float: center; margin-left: 1em; margin-right:auto;"} 
 ![Picture of mountains I hiked in South Dakota](images/IMG_0068_Original.jpg){:width="35.8%"}
 ![Picture of me on mountains in South Dakota](images/IMG_0065_Original.jpg){:width="29.9%"}
 ![Picture of rubik's cube](images/23203B2D-7F66-41F8-9913-0CF930B57D47.JPG){:width="24%"}
