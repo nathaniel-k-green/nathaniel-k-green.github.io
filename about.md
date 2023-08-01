@@ -13,7 +13,7 @@ I am entering my junior year at the [University of Wisconsin - La Crosse]. I am 
 
 ![Picture of me](images/WORS_LAX23_0243_Original.jpg){:width="36%" style="float: left; margin-right: 1em;"}
 
-I also enjoy solving rubik's cubes. I am able to solve all sorts of rubik's cubes from as small as $$2x2$$ rubik's cubes to as large as $$7x7$$, as well as megaminxs, gear cubes, and pyraminxs. My favorite is the standard $$3x3$$. I have a personal record of 8.68 seconds, and know full [OLL] and full [PLL]. 
+I also enjoy solving rubik's cubes. I am able to solve all sorts of rubik's cubes from as small as 2x2 rubik's cubes to as large as 7x7, as well as megaminxs, gear cubes, and pyraminxs. My favorite is the standard 3x3. I have a personal record of 8.68 seconds, and know full [OLL] and full [PLL]. 
 
 More recently, I have gotten into chess. Although I am no grand master, I enjoy playing games online or with my Dad. I find it fascinating watching videos of grand masters explaining their thought process behind games and seeing their level of expertise. 
 ![Picture of mountains I hiked in South Dakota](images/IMG_0068_Original.jpg){:width="36%" style="float: left; margin-right: 1em;"}
