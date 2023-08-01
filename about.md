@@ -16,7 +16,7 @@ More recently, I have gotten into chess. Although I am no grand master, I enjoy 
 
 {:.style="float: center;"} 
 ![Picture of mountains I hiked in South Dakota](images/IMG_0068_Original.jpg){:width="35.8%" style="margin-right: 1em;"}
-![Picture of me on mountains in South Dakota](images/IMG_0065_Original.jpg){:width="29.9%"}
+![Picture of me on mountains in South Dakota](images/IMG_0065_Original.jpg){:width="29.9%" style="margin-right: 1em;"}
 ![Picture of rubik's cube](images/23203B2D-7F66-41F8-9913-0CF930B57D47.JPG){:width="24%"}
 
 
