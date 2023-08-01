@@ -13,9 +13,9 @@ I am entering my junior year at the [University of Wisconsin - La Crosse]. I am 
 I also enjoy solving rubik's cubes. I am able to solve all sorts of rubik's cubes from as small as 2x2 rubik's cubes to as large as 7x7, as well as megaminxs, gear cubes, and pyraminxs. My favorite is the standard 3x3. I have a personal record of 8.68 seconds, and know full [oll] and full [pll]. 
 
 More recently, I have gotten into chess. Although I am no grand master, I enjoy playing games online or with my Dad. I find it fascinating watching videos of grand masters explaining their thought process behind games and seeing their level of expertise. 
-![Picture of me](images/IMG_0068_Original.jpg){:width="36%" style="float: left; margin-right: 1em;"}
-![Picture of me](images/IMG_0065_Original.jpg){:width="30%" style="float: center; margin-right: 1em;"} 
-![Picture of me](images/rubiks_cube.jpg){:width="30.25%" style="float: right; margin-right: 1em;"}
+![Picture of mountains I hiked in South Dakota](images/IMG_0068_Original.jpg){:width="36%" style="float: left; margin-right: 1em;"}
+![Picture of me on mountains in South Dakota](images/IMG_0065_Original.jpg){:width="30%" style="float: center; margin-right: 1em;"} 
+![Picture of rubik's cube](images/rubiks_cube.jpg){:width="30.25%" style="float: right; margin-right: 1em;"}
 
 
 
