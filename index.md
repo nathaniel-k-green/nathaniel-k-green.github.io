@@ -5,10 +5,13 @@ nav_order: 1
 ---
 # Nathaniel K. Green
 
-My name is Nathaniel K. Green and I am a Mathematics and Computer Science double major from the [University of Wisconsin - La Crosse]. Here is my [resume].
+My name is Nathaniel K. Green and I am a Mathematics and Computer Science double major from the [University of Wisconsin - La Crosse]. Here is my [resume]. You can learn [about] me here
+
+
 
 ----
 
+[about]: about.md
 [resume]: Nathaniel-Green-Resume-website.pdf
 [University of Wisconsin - La Crosse]: https://www.uwlax.edu/
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
