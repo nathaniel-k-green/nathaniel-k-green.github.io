@@ -4,6 +4,6 @@ title: School Projects
 ---
 # School Projects
 
-Here are a list of school projects I have done.
+The majority of school projects I have done were from my software design III class.
 
 ----
