@@ -30,7 +30,7 @@ By Summer 2024: Abstract Algebra, Topology, Artificial Intelligence, Computer Ar
 [MTH 309]: http://catalog.uwlax.edu/search/?P=MTH%20309
 [MTH 317]: http://catalog.uwlax.edu/search/?P=MTH%20317
 [MTH 353]: http://catalog.uwlax.edu/search/?P=MTH%20353
-[MTH 340]: http://catalog.uwlax.edu/search/?P=CS%20340
+[CS 340]: http://catalog.uwlax.edu/search/?P=CS%20340
 [CS 270]: http://catalog.uwlax.edu/search/?P=CS%20270
 [research]: research.md
 [about]: about.md
