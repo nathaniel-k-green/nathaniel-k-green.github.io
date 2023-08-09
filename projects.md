@@ -1,6 +1,6 @@
 ---
 layout: home
-title: School Projects
+title: Projects
 ---
 # School Projects
 
