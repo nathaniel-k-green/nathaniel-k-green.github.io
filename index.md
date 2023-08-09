@@ -32,9 +32,7 @@ By Summer 2024: Abstract Algebra, Topology, Artificial Intelligence, Computer Ar
  * Repair and adjust rental and loaner bike fleets for the UW-L Rec Center.
 - UW-La Crosse, Dean’s Distinguished Fellowship Research Fellow (May 2022 - September 2022)
  *Identified and addressed next steps in problem, combining advanced linear algebra concepts and Python/Sage programming 
- *Presented findings multiple times to both peers and faculty 
-
-
+ *Presented findings multiple times to both peers and faculty
 
 
 ----
