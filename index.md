@@ -5,7 +5,7 @@ nav_order: 1
 ---
 # Nathaniel K. Green
 
-My name is Nathaniel K. Green and I am a hard working Mathematics and Computer Science double major from the [University of Wisconsin - La Crosse] who has a passion for learning. Currently, I am interested in artificial intelligence and topology and want to learn about topology's use in artificial intellegence. I have a history of research in the field of optimization and linear algebra, click the link to learn more about my [research]. Here is my [resume]. Here is a link to learn more [about] me.
+My name is Nathaniel K. Green and I am a hard working Mathematics and Computer Science double major from the [University of Wisconsin - La Crosse] who has a passion for learning. Currently, I am interested in artificial intelligence and topology and want to learn about topology's use in artificial intelligence. I have a history of research in the field of optimization and linear algebra, click the link to learn more about my [research]. Here is my [resume]. Here is a link to learn more [about] me.
 
 ## Courses:
 - Linear Algebra [MTH 309]: 
@@ -13,7 +13,7 @@ My name is Nathaniel K. Green and I am a hard working Mathematics and Computer S
 - Graph Theory [MTH 317]:
   * Studied planarity, coloring, eulerian and hamiltonian graphs, digraphs, and various graph traversal algorithms
 - Differential Equations [MTH 353]:
-  * Studied ordinary differential equations, linear/non-linear systems, laplace transformations, wrote numerical approximation programs using python  
+  * Studied ordinary differential equations, linear/nonlinear systems, laplace transformations, wrote numerical approximation programs using python  
 - Software Design III [CS 340]:
   * Studied search/sort algorithms and wrote classes for data structures like AVL Tree, B+ Tree, Huffman coding (Java)
 - Introduction to Assembler Programming, C Programming and Computer Organization [CS 270]:
