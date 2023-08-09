@@ -2,7 +2,7 @@
 layout: home
 title: Projects
 ---
-# School Projects
+# Projects
 
 The majority of school projects I have done were from my software design III class.
 
@@ -19,7 +19,7 @@ The majority of school projects I have done were from my software design III cla
 {: .highlight-title }
 > Huffman File Compressor
 >
->
+> This project is a program which allows you to compress text files using the Huffman encoding and decoding process. For this, I wrote my own binary heap, decode, encode, input stream, output stream, and tree classes. This invloved reading and writing from files and general tree nagivation algorithms. The program is able to compress files to roughly 60% of their original size.
 
 {: .highlight-title }
 > AVL Tree
