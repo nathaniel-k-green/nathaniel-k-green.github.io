@@ -9,7 +9,7 @@ The majority of school projects I have done were from my software design III cla
 {: .highlight-title }
 > Video Downloader for Panasonic HC-V785 Camera 
 >
->
+> I created a GUI application using Python which automatically downloads video files from a Panasonic HC-V785 Camera and creates a folder with a specific title and the days date. This project was born out of necessity because there was not a way to download videos from this specific camera without navigating through the terminal or downloading other software. I wanted to build a user friendly way for people (in my case, my younger brother) to download photos and videos.
 
 {: .highlight-title }
 > B+ Tree
