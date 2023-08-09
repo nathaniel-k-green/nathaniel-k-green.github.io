@@ -14,7 +14,7 @@ The majority of school projects I have done were from my software design III cla
 {: .highlight-title }
 > B+ Tree
 >
-> I wrote a class B+ Tree database using Java. I used two random access files, one to store the data, and a second to store the tree structure which pointed to locations in the first file where the corresponding data was stored. This made it so the tree and data did not have to be stored in memory, similar to the AVL Tree project. This specific class allows the user to specify the order of the B+ Tree, and supports the insertion and removal of data, while also allowing the user to print out the tree to screen.
+> I wrote a class for a B+ Tree database using Java. I used two random access files, one to store the data, and a second to store the tree structure which pointed to locations in the first file where the corresponding data was stored. This made it so the tree and data did not have to be stored in memory, similar to the AVL Tree project. This specific class allows the user to specify the order of the B+ Tree, and supports the insertion and removal of data, while also allowing the user to print out the tree to screen.
 
 {: .highlight-title }
 > Huffman File Compressor
