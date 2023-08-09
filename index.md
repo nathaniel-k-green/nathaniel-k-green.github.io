@@ -22,6 +22,17 @@ My name is Nathaniel K. Green and I am a hard working Mathematics and Computer S
 By Summer 2024: Abstract Algebra, Topology, Artificial Intelligence, Computer Architecture, Software Design IV, Structures of Compilers
 
 
+## Work History:
+- UPS, Preloader (June 2023 - Current)
+ * Quickly and efficiently load packages into trucks for drivers
+- UW-La Crosse, Undergraduate Research & Creativity Committee Grant Recipient (January 2023 - July 2023)
+ * Co-wrote research paper proving specific case of the CDTA conjecture
+ * Proved a general type of matrix is positive semidefinite using minimum polynomial
+- UW-La Crosse, Bike Mechanic (January 2021 - May 2023)
+ * Repair and adjust rental and loaner bike fleets for the UW-L Rec Center.
+- UW-La Crosse, Dean’s Distinguished Fellowship Research Fellow (May 2022 - September 2022)
+ *Identified and addressed next steps in problem, combining advanced linear algebra concepts and Python/Sage programming 
+ *Presented findings multiple times to both peers and faculty 
 
 
 
