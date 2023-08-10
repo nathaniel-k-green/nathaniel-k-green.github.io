@@ -2,10 +2,10 @@ title: Nathaniel K. Green
 description: My personal website detailing my interests and hobbies.
 remote_theme: just-the-docs/just-the-docs
 
-url: https://github.com/nathaniel-k-green/nathaniel-k-green.github.io
+url: https://nathaniel-k-green.github.io/
 
 aux_links:
-  Template Repository: https://github.com/nathaniel-k-green.github.io
+  Template Repository: https://github.com/nathaniel-k-green/nathaniel-k-green.github.io
 
 plugins:
   - jekyll-seo-tag
