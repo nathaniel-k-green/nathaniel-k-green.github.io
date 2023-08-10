@@ -26,6 +26,12 @@ The majority of school projects I have done were from my software design III cla
 >
 > This project involved writing a class for an AVL Tree stored in a random access file using Java. Each node contained a certain number of string fields specified by the user, and stored every node in a binary file rather than memory. This was my first project where I regularly read and wrote to a binary file and I discovered I enjoyed being able to decode a node from a file rather than relying on it being in memory. 
 
-
+{: .highlight-title }
+> This Website!
+>
+> This website is my most recent (and current) project. This project is based on a tempalte called [Just The Docs]. Here is the [repository] for this project. This project uses on Github Pages and Jekyll. Additionally, Jekyll is written in Ruby so there are various spots, such as adding gems, where Ruby is used.
 
 ----
+
+[Just The Docs]: https://github.com/just-the-docs/just-the-docs
+[repository]: https://github.com/nathaniel-k-green/nathaniel-k-green.github.io
