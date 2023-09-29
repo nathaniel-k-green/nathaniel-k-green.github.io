@@ -1,7 +1,7 @@
 ---
 title: Abstract Algebra
 layout: home
-nav_order: -1
+nav_exclude: true
 ---
 
 
