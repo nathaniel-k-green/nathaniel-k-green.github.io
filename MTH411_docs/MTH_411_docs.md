@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Abstract Algebra
 layout: home
 nav_order: -1
 ---
