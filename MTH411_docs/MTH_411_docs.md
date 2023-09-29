@@ -13,4 +13,4 @@ Nathaniel Green
 
 ----
 
-[Def/Thms]: MTH411_docs/Abstract_Algebra_cheat_sheet_2023.pdf
+[Def/Thms]: Abstract_Algebra_cheat_sheet_2023.pdf
