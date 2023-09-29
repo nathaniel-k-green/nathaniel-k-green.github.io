@@ -36,12 +36,8 @@ By Summer 2024: Abstract Algebra, Topology, Artificial Intelligence, Computer Ar
 
 More about my [research] and presentaions on the research tab.
 
-MTH411_docs/MTH_411_docs
-[math_page]
-
 ----
 
-[math_page]: MTH411_docs/MTH_411_docs
 [MTH 309]: http://catalog.uwlax.edu/search/?P=MTH%20309
 [MTH 317]: http://catalog.uwlax.edu/search/?P=MTH%20317
 [MTH 353]: http://catalog.uwlax.edu/search/?P=MTH%20353
