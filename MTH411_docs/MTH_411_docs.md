@@ -7,7 +7,7 @@ nav_exclude: true
 
 This is a place where I will put the documents for abstract algebra.
 Here is the [Def/Thms] document.
-_last updated 12/7/23_
+_last updated 12/16/23_
 
 Nathaniel Green
 
