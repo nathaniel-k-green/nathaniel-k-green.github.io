@@ -23,7 +23,7 @@ By Summer 2024: Abstract Algebra, Topology, Artificial Intelligence, Computer Ar
 
 
 ## Work History:
-- Capital One, (June 2024 - August 2024)
+- Capital One, Software Engineering Intern (June 2024 - August 2024)
   * Helped build data managment tool which registered over 2000 datasets.
 - UW-La Crosse, Undergraduate Research & Creativity Committee Grant Recipient (January 2023 - July 2023)
   * Co-wrote research paper proving specific case of the CDTA conjecture.
