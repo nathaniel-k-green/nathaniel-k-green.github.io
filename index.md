@@ -23,16 +23,16 @@ By Summer 2024: Abstract Algebra, Topology, Artificial Intelligence, Computer Ar
 
 
 ## Work History:
-- UPS, Preloader (June 2023 - Current)
-  * Quickly and efficiently load packages into trucks for drivers
+- Capital One, (June 2024 - August 2024)
+  * Helped build data managment tool which registered over 2000 datasets.
 - UW-La Crosse, Undergraduate Research & Creativity Committee Grant Recipient (January 2023 - July 2023)
-  * Co-wrote research paper proving specific case of the CDTA conjecture
-  * Proved a general type of matrix is positive semidefinite using minimum polynomial
+  * Co-wrote research paper proving specific case of the CDTA conjecture.
+  * Proved a general type of matrix is positive semidefinite using minimum polynomial.
 - UW-La Crosse, Bike Mechanic (January 2021 - May 2023)
   * Repair and adjust rental and loaner bike fleets for the UW-L Rec Center.
 - UW-La Crosse, Dean’s Distinguished Fellowship Research Fellow (May 2022 - September 2022)
-  * Identified and addressed next steps in problem, combining advanced linear algebra concepts and Python/Sage programming
-  * Presented findings multiple times to both peers and faculty
+  * Identified and addressed next steps in problem, combining advanced linear algebra concepts and Python/Sage programming.
+  * Presented findings multiple times to both peers and faculty.
 
 More about my [research] and presentaions on the research tab.
 
