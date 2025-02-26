@@ -5,7 +5,8 @@ nav_order: 1
 ---
 # Nathaniel K. Green
 
-![Picture of me](images/IMG_1168.jpg){:width="30%" style="float: left; margin-right: 1em;"} My name is Nathaniel K. Green and I am a hard working Mathematics and Computer Science double major from the [University of Wisconsin - La Crosse] who has a passion for learning. Currently, I am interested in artificial intelligence and topology and want to learn about topology's use in artificial intelligence. I have a history of research in the field of optimization and linear algebra, click the link to learn more about my [research]. Here is my [resume]. Here is a link to learn more [about] me.
+
+My name is Nathaniel K. Green and I am a hard working Mathematics and Computer Science double major from the [University of Wisconsin - La Crosse] who has a passion for learning. Currently, I am interested topology and functional analysis. I am currently doing a research project in the field of functional analysis and also have a history of research in the field of optimization and linear algebra. Click the link to learn more about my [research]. Here is my [resume]. Here is a link to learn more [about] me.
 
 
 
