@@ -23,7 +23,7 @@ My name is Nathaniel K. Green and I am a hard working Mathematics and Computer S
   * Identified and addressed next steps in problem, combining advanced linear algebra concepts and Python/Sage programming.
   * Presented findings multiple times to both peers and faculty.
 
-More about my [research] and presentaions on the research tab.
+More about my [research] and presentations on the research tab.
 
 ----
 
