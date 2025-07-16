@@ -10,7 +10,7 @@ Below lie several quotes that resonate with me. Whether they display intellect, 
 
 'Pure Mathematics is, in its way, the poetry of logical ideas.' - Albert Einstein, a tribute in the New York Times to Emmy Noether after her passing https://www.findingpatterns.info/scrapbook/emmy-noether-einsteins-appreciation.html.
 
-'If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.' John Von Neumann, in a keynote presentation at the first national meeting of the Association for Computing Machinery https://homepage.math.uiowa.edu/~jorgen/vonneumannquotesource.html
+'If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.' - John Von Neumann, in a keynote presentation at the first national meeting of the Association for Computing Machinery https://homepage.math.uiowa.edu/~jorgen/vonneumannquotesource.html
 
 
 ---
