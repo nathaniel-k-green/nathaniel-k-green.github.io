@@ -12,6 +12,8 @@ Below lie several quotes that resonate with me. Whether they display intellect, 
 
 'If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.' - John Von Neumann, in a keynote presentation at the first national meeting of the Association for Computing Machinery https://homepage.math.uiowa.edu/~jorgen/vonneumannquotesource.html
 
+``The introduction of the cipher 0 or the group concept was general nonsense too, and mathematics was more or less stagnating for thousands of years because nobody was around to take such childish steps ..." - Alexander Grothendieck, in a letter to Ronald Brown https://mathshistory.st-andrews.ac.uk/Biographies/Grothendieck/quotations/
+
 
 ---
 
